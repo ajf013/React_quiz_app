@@ -4,7 +4,7 @@ https://opentdb.com/api.php?amount=20&category=${9 to 32}&difficulty=${ easy or 
 
 # React Quiz App
 
-### [Live Site]()
+### [Live Site](https://quizgame-reactapp.netlify.app/)
 
 ![React Quiz App](https://i.ibb.co/D8xmYhH/react-quiz-app.png)
 
